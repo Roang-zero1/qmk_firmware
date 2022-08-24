@@ -224,7 +224,7 @@
       "KC_PGDN",
       "KC_NO",
       "KC_LCTL",
-      "KC_NO",
+      "RALT(KC_S)",
       "RALT(KC_Q)",
       "RALT(KC_P)",
       "RALT(KC_Y)",
